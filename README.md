@@ -6,7 +6,7 @@ Check the Strength of Password by lower &amp; upper characters, numeric and spec
 <pre>
 Name : POOJA BARUI
 Company : SkillCraft Technology
-iNTERN ID : SCT/SEP24/5160
+iNTERN ID : SCT/SEP24/6250
 Domain : CYBER SECURITY 
 Duration : SEPTEMBER 15TH,2024 TO OCTOBER 15TH,2024
 </pre>
